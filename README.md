@@ -22,6 +22,7 @@
 - https://pgc24.pl (Nuxt.js)
 - https://inskipark.pl (Django)
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
+- https://watermc.eu (Nuxt.js)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
