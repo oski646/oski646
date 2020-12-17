@@ -23,6 +23,7 @@
 - https://inskipark.pl (Django)
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
 - https://watermc.eu (Nuxt.js)
+- https://enchant.pl (React.js)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
