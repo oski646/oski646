@@ -1,6 +1,6 @@
 ### Hi, I'm Oskar! 👋
 
-⚡ Junior Web Developer (btw. I currently prefer frontend 😜)
+⚡ Junior Frontend Devloper
 
 💻 Enjoy working with:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -16,9 +16,9 @@
 - ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django)
 
 🌐 Projects:
-- https://mcprzygoda.pl (Express.js, MongoDB)
+- https://mcprzygoda.pl (Express.js, MongoDB) [temporarily unavailable]
 - https://aneta.sekutowicz.pl (Nuxt.js)
-- https://rekrutacjadogildii.pl (Express.js, MongoDB)
+- https://rekrutacjadogildii.pl (Express.js, MongoDB) [temporarily unavailable]
 - https://pgc24.pl (Nuxt.js)
 - https://inskipark.pl (Django)
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
