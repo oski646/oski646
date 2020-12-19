@@ -24,6 +24,7 @@
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
 - https://watermc.eu (Nuxt.js)
 - https://enchant.pl (React.js)
+- https://gdk.com.pl (Nuxt.js + Wagtail CMS)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
