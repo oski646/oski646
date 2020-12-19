@@ -16,16 +16,16 @@
 - ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django)
 
 🌐 Projects:
-- <a href="https://mcprzygoda.pl" target="_blank">https://mcprzygoda.pl</a> (Express.js, MongoDB) [temporarily unavailable]
-- <a href="https://aneta.sekutowicz.pl" target="_blank">https://aneta.sekutowicz.pl</a> (Nuxt.js)
-- <a href="https://rekrutacjadogildii.pl" target="_blank">https://rekrutacjadogildii.pl</a> (Express.js, MongoDB) [temporarily unavailable]
-- <a href="https://pgc24.pl" target="_blank">https://pgc24.pl</a> (Nuxt.js)
-- <a href="https://inskipark.pl" target="_blank">https://inskipark.pl</a> (Django)
-- <a href="https://github.com/CodeskLabs/uniorganizer" target="_blank">Uniorganizer</a>
-- <a href="https://watermc.eu" target="_blank">https://watermc.eu</a> (Nuxt.js)
-- <a href="https://enchant.pl" target="_blank">https://enchant.pl</a> (React.js)
-- <a href="https://gdk.com.pl" target="_blank">https://gdk.com.pl</a> (Nuxt.js + Wagtail CMS)
+- https://mcprzygoda.pl (Express.js, MongoDB) [temporarily unavailable]
+- https://aneta.sekutowicz.pl (Nuxt.js)
+- https://rekrutacjadogildii.pl (Express.js, MongoDB) [temporarily unavailable]
+- https://pgc24.pl (Nuxt.js)
+- https://inskipark.pl (Django)
+- [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
+- https://watermc.eu (Nuxt.js)
+- https://enchant.pl (React.js)
+- https://gdk.com.pl (Nuxt.js + Wagtail CMS)
 
-💼 Team: <a href="https://github.com/CodeskLabs" target="_blank">@Codesk</a>
+💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
 Programming is my passion ❤️
