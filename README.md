@@ -1,6 +1,6 @@
 ### Hi, I'm Oskar! 👋
 
-⚡ Junior Frontend Devloper
+⚡ Junior Frontend Developer
 
 💻 Enjoy working with:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
