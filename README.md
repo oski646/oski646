@@ -26,9 +26,7 @@
 ![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
 
 #### 🌐 Projects:
-- https://mcprzygoda.pl (Express.js, MongoDB) [temporarily unavailable]
 - https://aneta.sekutowicz.pl (Nuxt.js)
-- https://rekrutacjadogildii.pl (Express.js, MongoDB) [temporarily unavailable]
 - https://pgc24.pl (Nuxt.js)
 - https://inskipark.pl (Django)
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
