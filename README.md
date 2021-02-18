@@ -26,13 +26,13 @@
 ![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
 
 #### 🌐 Projects:
-- https://aneta.sekutowicz.pl (Nuxt.js)
-- https://pgc24.pl (Nuxt.js)
-- https://inskipark.pl (Django)
+- [aneta.sekutowicz.pl](https://aneta.sekutowicz.pl) (Nuxt.js)
+- [pgc24.pl](https://pgc24.pl) (Nuxt.js)
+- [inskipark.pl](https://inskipark.pl) (Django)
 - [Uniorganizer](https://github.com/CodeskLabs/uniorganizer)
-- https://watermc.eu (Nuxt.js)
-- https://enchant.pl (React.js)
-- https://gdk.com.pl (Nuxt.js + Wagtail CMS)
+- [watermc.eu](https://watermc.eu) (Nuxt.js)
+- [enchant.pl](https://enchant.pl) (React.js)
+- [gdk.com.pl](https://gdk.com.pl) (Nuxt.js + Wagtail CMS)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
