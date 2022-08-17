@@ -33,6 +33,7 @@
 - [enchant.pl](https://enchant.pl) (React.js)
 - [gdk.com.pl](https://gdk.com.pl) (Nuxt.js + Wagtail CMS)
 - [onlypvp.pl](https://onlypvp.pl) (Vue.js + Directus)
+- [codar.pl](https://codar.pl) (Remix)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
