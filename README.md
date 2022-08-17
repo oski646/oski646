@@ -32,9 +32,10 @@
 - [watermc.eu](https://watermc.eu) (Nuxt.js)
 - [enchant.pl](https://enchant.pl) (React.js)
 - [gdk.com.pl](https://gdk.com.pl) (Nuxt.js + Wagtail CMS)
+- [onlypvp.pl](https://onlypvp.pl) (Vue.js + Directus)
 
 💼 Team: [@Codesk](https://github.com/CodeskLabs)
 
-💼 Job: [Ragnarson](https://ragnarson.com/)
+💼 Job: [@Ragnarson](https://ragnarson.com/)
 
 Programming is my passion ❤️
