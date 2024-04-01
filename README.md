@@ -19,7 +19,6 @@
 
 #### 🌐 Active projects:
 - [aneta.sekutowicz.pl](https://aneta.sekutowicz.pl) (Nuxt.js)
-- [watermc.eu](https://watermc.eu) (Nuxt.js)
 - [enchant.pl](https://enchant.pl) (React.js)
 - [gdk.com.pl](https://gdk.com.pl) (Nuxt.js + Wagtail CMS)
 - [codar.pl](https://codar.pl) (Remix)
